@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65efd44b-e3dd-4de7-8343-8cd3820698ca" name="Changes" comment="moved" />
+    <list default="true" id="65efd44b-e3dd-4de7-8343-8cd3820698ca" name="Changes" comment="new day" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +54,7 @@
       <workItem from="1696664323929" duration="280000" />
       <workItem from="1696664614883" duration="6000" />
       <workItem from="1696664630833" duration="1402000" />
-      <workItem from="1696666082442" duration="1173000" />
+      <workItem from="1696666082442" duration="2047000" />
     </task>
     <task id="LOCAL-00001" summary="create folder">
       <option name="closed" value="true" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696667992596</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new day">
+      <option name="closed" value="true" />
+      <created>1696668510745</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696668510745</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +133,7 @@
     <MESSAGE value="practice with code" />
     <MESSAGE value="delete" />
     <MESSAGE value="moved" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved" />
+    <MESSAGE value="new day" />
+    <option name="LAST_COMMIT_MESSAGE" value="new day" />
   </component>
 </project>
