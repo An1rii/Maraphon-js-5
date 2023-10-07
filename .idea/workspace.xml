@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="65efd44b-e3dd-4de7-8343-8cd3820698ca" name="Changes" comment="&#10;back">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="65efd44b-e3dd-4de7-8343-8cd3820698ca" name="Changes" comment="add file">
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,7 @@
       <updated>1696664322527</updated>
       <workItem from="1696664323929" duration="280000" />
       <workItem from="1696664614883" duration="6000" />
-      <workItem from="1696664630833" duration="491000" />
+      <workItem from="1696664630833" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="create folder">
       <option name="closed" value="true" />
@@ -74,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696664873945</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add file">
+      <option name="closed" value="true" />
+      <created>1696665169335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696665169335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create folder" />
     <MESSAGE value="&#10;back" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;back" />
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
   </component>
 </project>
